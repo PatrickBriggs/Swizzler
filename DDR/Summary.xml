@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<FMPReport creationTime="8:13:37 PM" creationDate="7/25/2016" type="Summary" version="15.0.1">
+	<File link=".//Swizzler_fmp12.xml" name="Swizzler.fmp12" path="/Volumes/Macintosh HD/Users/patrickbriggs/Documents/FileMaker Things/projects/MDM/Swizzler/alpha/0.0.5/">
+		<BaseTables count="9"/>
+		<Tables count="9"/>
+		<Relationships count="1"/>
+		<Accounts count="2"/>
+		<Privileges count="3"/>
+		<ExtendedPrivileges count="7"/>
+		<FileAccess count="0"/>
+		<Layouts count="14"/>
+		<Scripts count="17"/>
+		<ValueLists count="0"/>
+		<CustomFunctions count="36"/>
+		<FileReferences count="0"/>
+		<CustomMenuSets count="0"/>
+		<CustomMenus count="0"/>
+	</File>
+</FMPReport>
