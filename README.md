@@ -7,14 +7,8 @@ Please kindly ignore this repo unless you've been invited or you have constructi
 
 
 ##DDRs
->Format chosen to support use of FMPerception[1]
+>Format chosen to support use of [FMPerception](https://www.geistinteractive.com/products/fmperception-fast-filemaker-analysis/)
 
 1. Always in the XML format.
 2. Always includes the Summary and the full ddr.
 
-
-
-
-
-
-[1]: https://www.geistinteractive.com/products/fmperception-fast-filemaker-analysis/
