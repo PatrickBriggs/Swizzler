@@ -1,7 +1,10 @@
 # Swizzler
 >I've no idea what I am doing.
 
-Please kindly ignore this repo unless you've been invited or you have constructive input on the file or how I'm using/managing the repository.
+Please kindly ignore this repo unless:
+
+1. You've been invited.
+2. You're a passerby with helpful input on repo management.
 
 
 
